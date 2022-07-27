@@ -13,7 +13,7 @@ projects:
 
 [https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript)
 
-Escribe un algoritmo que recibe un arreglo con elementos y mueva todos los ceros
+Escribe un algoritmo que reciba un arreglo con elementos y mueva todos los ceros
 al final, preservando el orden de los otros elementos que no sean cero.
 
 __Ejemplo__
